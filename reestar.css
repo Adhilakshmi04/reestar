@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    background-color:black;
+    color: white;
+    padding: 35px;
+}
+img{
+    height: 220px;
+    width: 220px;
+}
+.r1{
+    height: 310px;
+    width: 220px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 10px;
+    display: inline-block;
+}
+.r2{
+    height: 310px;
+    width: 220px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 10px;
+    display: inline-block;
+}
+.r3{
+    height: 310px;
+    width: 220px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 10px;
+    display: inline-block;
+}
+.r4{
+    height: 310px;
+    width: 220px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 10px;
+    display: inline-block;
+}
+.two{
+    text-align: center;
+    color: black;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+    cursor: pointer;
+    
+}
+.three{
+    background-color:black;
+    color: white;
+   
+    margin-top: 10px;
+}
+p{
+    cursor: pointer;
+}
